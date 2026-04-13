@@ -2,7 +2,7 @@
 
 Minicurso teórico-prático promovido pela **RSG-Brazil (ISCB Student Council)**, com foco em fundamentos e aplicações de análise de variantes genéticas em bioinformática.
 
-📅 **Data:** Abril  
+📅 **Data:** 17 de Abril 2026  
 ⏰ **Horário:** 18h às 21h  
 👨‍🏫 **Instrutor:** Dr. João L. Pitta  
 
